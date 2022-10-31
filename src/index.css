@@ -366,4 +366,5 @@ a.red +.line{
     border-right: 50px solid #fff;
     border-top: 50px solid transparent;
   }
+    .box{ margin-left:20% }
 }
